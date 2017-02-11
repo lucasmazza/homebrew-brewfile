@@ -17,6 +17,11 @@ brew 'keybase'
 brew 'readline'
 brew 'wget'
 
+brew 'rbenv'
+brew 'ruby-build'
+brew 'nodenv'
+brew 'node-build'
+
 brew 'webp'
 brew 'gifsicle'
 brew 'ffmpeg', args: ['with-fontconfig', 'without-lame', 'without-qtkit', 'without-x264', 'without-xvid']
@@ -53,5 +58,4 @@ mas 'Annotate', id: 918207447
 mas 'iA Writer', id: 775737590
 mas 'Keynote', id: 409183694
 mas 'Dash', id: 449589707
-mas 'Caffeine', id: 411246225
 mas 'Wunderlist', id: 410628904
