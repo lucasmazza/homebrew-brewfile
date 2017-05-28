@@ -50,6 +50,13 @@ cask 'mojibar'
 cask 'spectacle'
 cask 'virtualbox'
 
+cask 'betterzipql'
+cask 'qlcolorcode'
+cask 'qlmarkdown'
+cask 'qlstephen'
+cask 'quicklook-csv'
+cask 'quicklook-json'
+
 brew 'mas'
 mas 'Tweetbot', id: 557168941
 mas 'Deckset', id: 847496013
