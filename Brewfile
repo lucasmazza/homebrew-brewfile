@@ -13,7 +13,6 @@ brew 'git'
 brew 'htop'
 brew 'hub'
 brew 'jq'
-brew 'keybase'
 brew 'readline'
 brew 'wget'
 
