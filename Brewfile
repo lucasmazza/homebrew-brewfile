@@ -63,5 +63,4 @@ mas 'Deckset', id: 847496013
 mas 'Annotate', id: 918207447
 mas 'iA Writer', id: 775737590
 mas 'Keynote', id: 409183694
-mas 'Dash', id: 449589707
 mas 'Wunderlist', id: 410628904
