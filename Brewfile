@@ -42,6 +42,7 @@ cask 'atom'
 cask 'docker'
 cask 'dropbox'
 cask 'firefox'
+cask 'flux'
 cask 'google-chrome'
 cask 'gpgtools'
 cask 'imageoptim'
@@ -63,6 +64,7 @@ mas 'Tweetbot', id: 557168941
 mas 'Deckset', id: 847496013
 mas 'Annotate', id: 918207447
 mas 'iA Writer', id: 775737590
+mas 'Ka-Block!', id: 1335413823
 mas 'Keynote', id: 409183694
 mas 'Monosnap', id: 540348655
 mas 'Tweetbot', id: 557168941
