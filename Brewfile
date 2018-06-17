@@ -60,11 +60,12 @@ cask 'quicklook-csv'
 cask 'quicklook-json'
 
 brew 'mas'
-mas 'Tweetbot', id: 557168941
-mas 'Deckset', id: 847496013
+mas '1Password 7', id: 1333542190
 mas 'Annotate', id: 918207447
+mas 'Deckset', id: 847496013
 mas 'iA Writer', id: 775737590
 mas 'Ka-Block!', id: 1335413823
 mas 'Keynote', id: 409183694
 mas 'Monosnap', id: 540348655
-mas 'Tweetbot', id: 557168941
+mas 'Telegram Desktop', id: 946399090
+mas 'Tweetbot', id: 1384080005
