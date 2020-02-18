@@ -25,9 +25,9 @@ brew 'node-build'
 
 brew 'webp'
 brew 'gifsicle'
-brew 'ffmpeg', args: ['with-fontconfig', 'without-lame', 'without-qtkit', 'without-x264', 'without-xvid']
+brew 'ffmpeg'
 brew 'librsvg'
-brew 'imagemagick', args: ['with-fontconfig', 'with-librsvg', 'with-webp']
+brew 'imagemagick'
 brew 'libpng'
 brew 'freetype'
 brew 'fontconfig'
