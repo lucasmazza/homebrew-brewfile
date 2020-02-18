@@ -37,7 +37,6 @@ brew 'libtiff'
 tap 'puma/puma'
 brew 'puma/puma/puma-dev'
 
-tap 'caskroom/cask'
 cask 'alfred'
 cask 'atom'
 cask 'docker'
