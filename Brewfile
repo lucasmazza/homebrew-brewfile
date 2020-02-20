@@ -1,6 +1,7 @@
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
+tap 'homebrew/cask-versions'
 
 brew 'ack'
 brew 'bash-completion'
@@ -29,7 +30,7 @@ brew 'fontconfig'
 brew 'jpeg'
 brew 'libtiff'
 
-cask 'alfred'
+cask 'alfred3'
 cask 'atom'
 cask 'docker'
 cask 'dropbox'
