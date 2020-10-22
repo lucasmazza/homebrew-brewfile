@@ -1,9 +1,9 @@
 tap 'homebrew/bundle'
+tap 'homebrew/cask'
 tap 'homebrew/core'
 tap 'homebrew/services'
-tap 'homebrew/cask-versions'
 
-brew 'ack'
+brew 'the_silver_searcher'
 brew 'bash-completion'
 brew 'bash'
 brew 'brew-cask-completion'
@@ -13,7 +13,8 @@ brew 'hub'
 brew 'jq'
 brew 'readline'
 brew 'wget'
-cask 'fzf'
+brew 'fzf'
+brew 'hugo'
 
 brew 'rbenv'
 brew 'ruby-build'
@@ -46,12 +47,8 @@ cask 'mojibar'
 cask 'spectacle'
 cask 'keepingyouawake'
 
-cask 'betterzip'
-cask 'qlcolorcode'
-cask 'qlmarkdown'
-cask 'qlstephen'
-cask 'quicklook-csv'
-cask 'quicklook-json'
+brew 'postgresql', restart_service: true
+brew 'redis', restart_service: true
 
 brew 'mas'
 mas '1Password 7', id: 1333542190
@@ -62,3 +59,4 @@ mas 'Ka-Block!', id: 1335413823
 mas 'Keynote', id: 409183694
 mas 'Monosnap', id: 540348655
 mas 'Telegram Desktop', id: 946399090
+mas 'Todoist', id: 585829637
