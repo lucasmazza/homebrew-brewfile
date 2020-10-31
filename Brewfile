@@ -15,6 +15,7 @@ brew 'readline'
 brew 'wget'
 brew 'fzf'
 brew 'hugo'
+brew 'starship'
 
 brew 'rbenv'
 brew 'ruby-build'
