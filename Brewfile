@@ -4,8 +4,6 @@ tap 'homebrew/core'
 tap 'homebrew/services'
 
 brew 'the_silver_searcher'
-brew 'bash-completion'
-brew 'bash'
 brew 'brew-cask-completion'
 brew 'git'
 brew 'htop'
@@ -21,6 +19,7 @@ brew 'rbenv'
 brew 'ruby-build'
 brew 'nodenv'
 brew 'node-build'
+brew 'asdf'
 
 brew 'webp'
 brew 'gifsicle'
@@ -33,8 +32,7 @@ brew 'fontconfig'
 brew 'jpeg'
 brew 'libtiff'
 
-cask 'atom'
-cask 'docker'
+cask 'vscodium'
 cask 'dropbox'
 cask 'firefox'
 cask 'flux'
@@ -54,7 +52,6 @@ brew 'mas'
 mas '1Password 7', id: 1333542190
 mas 'Annotate', id: 918207447
 mas 'Deckset', id: 847496013
-mas 'iA Writer', id: 775737590
 mas 'Ka-Block!', id: 1335413823
 mas 'Keynote', id: 409183694
 mas 'Monosnap', id: 540348655
