@@ -33,7 +33,6 @@ brew 'fontconfig'
 brew 'jpeg'
 brew 'libtiff'
 
-cask 'alfred3'
 cask 'atom'
 cask 'docker'
 cask 'dropbox'
