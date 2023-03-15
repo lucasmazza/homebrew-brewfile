@@ -41,8 +41,8 @@ cask 'mojibar'
 cask 'spectacle'
 cask 'keepingyouawake'
 
-brew 'mas'
-mas '1Password 7', id: 1333542190
-mas 'Ka-Block!', id: 1335413823
-mas 'Telegram Desktop', id: 946399090
-mas 'Todoist', id: 585829637
+# brew 'mas'
+# mas '1Password 7', id: 1333542190
+# mas 'Ka-Block!', id: 1335413823
+# mas 'Telegram Desktop', id: 946399090
+# mas 'Todoist', id: 585829637
