@@ -2,47 +2,47 @@ tap 'homebrew/bundle'
 tap 'homebrew/cask'
 tap 'homebrew/core'
 
-brew 'the_silver_searcher'
 brew 'brew-cask-completion'
+brew 'fzf'
 brew 'git'
 brew 'htop'
 brew 'hub'
+brew 'hugo'
+brew 'hugo'
 brew 'jq'
 brew 'readline'
-brew 'wget'
-brew 'fzf'
-brew 'hugo'
 brew 'starship'
+brew 'the_silver_searcher'
 brew 'tree'
+brew 'wget'
 
 brew 'asdf'
 
-brew 'webp'
-brew 'gifsicle'
 brew 'ffmpeg'
-brew 'librsvg'
-brew 'imagemagick'
-brew 'libpng'
-brew 'freetype'
 brew 'fontconfig'
+brew 'freetype'
+brew 'gifsicle'
+brew 'imagemagick'
 brew 'jpeg'
+brew 'libpng'
+brew 'librsvg'
 brew 'libtiff'
+brew 'webp'
 
-cask 'alfred'
-cask 'vscodium'
 cask 'dropbox'
 cask 'firefox'
 cask 'flux'
 cask 'gpg-suite'
 cask 'imageoptim'
 cask 'iterm2'
-cask 'lastfm'
-cask 'mojibar'
-cask 'spectacle'
 cask 'keepingyouawake'
+cask 'raycast'
+cask 'rectangle'
+cask 'visual-studio-code'
 
-# brew 'mas'
-# mas '1Password 7', id: 1333542190
-# mas 'Ka-Block!', id: 1335413823
-# mas 'Telegram Desktop', id: 946399090
-# mas 'Todoist', id: 585829637
+brew 'mas'
+mas '1Password for Safari', id: 1569813296
+mas 'AdGuard for Safari', id: 1440147259
+mas 'Keynote', id: 409183694
+mas 'Slack', id: 803453959
+mas 'Todoist', id: 585829637
