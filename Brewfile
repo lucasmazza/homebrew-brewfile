@@ -9,8 +9,8 @@ brew "libtiff"
 brew "webp"
 # Library for command-line editing
 brew "readline"
-# Extendable version manager with support for Ruby, Node.js, Erlang & more
-brew "asdf"
+# Polyglot runtime manager
+brew "rtx"
 # Fish completion for brew-cask
 brew "brew-cask-completion"
 # Software library to render fonts
