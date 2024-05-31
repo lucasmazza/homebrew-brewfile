@@ -1,6 +1,4 @@
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
 # Library for manipulating PNG images
 brew "libpng"
 # TIFF library and utilities
