@@ -10,7 +10,7 @@ brew "webp"
 # Library for command-line editing
 brew "readline"
 # Polyglot runtime manager
-brew "rtx"
+brew "mise"
 # Fish completion for brew-cask
 brew "brew-cask-completion"
 # Software library to render fonts
