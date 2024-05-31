@@ -47,6 +47,10 @@ brew "the_silver_searcher"
 brew "tree"
 # Internet file retriever
 brew "wget"
+# YAML Parser
+brew "libyaml"
+# Postgres C API library
+brew "libpq"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Web browser
