@@ -67,6 +67,8 @@ cask "imageoptim"
 cask "iterm2"
 # Tool to prevent the system from going into sleep mode
 cask "keepingyouawake"
+# App to write, plan, collaborate, and get organised
+cask "notion"
 # Control your tools with a few keystrokes
 cask "raycast"
 # Move and resize windows using keyboard shortcuts or snap areas
