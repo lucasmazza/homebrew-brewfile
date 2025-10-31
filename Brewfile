@@ -1,83 +1,80 @@
-# Library for manipulating PNG images
 brew "libpng"
-# TIFF library and utilities
+brew "zstd"
 brew "libtiff"
-# Image format providing lossless and lossy compression for web images
 brew "webp"
-# Library for command-line editing
-brew "readline"
-# Polyglot runtime manager
-brew "mise"
-# Fish completion for brew-cask
-brew "brew-cask-completion"
-# Software library to render fonts
-brew "freetype"
-# XML-based font configuration API for X Windows
-brew "fontconfig"
-# Play, record, convert, and stream audio and video
-brew "ffmpeg"
-# Command-line fuzzy finder written in Go
-brew "fzf"
-# GIF image/animation creator/editor
-brew "gifsicle"
-# Distributed revision control system
+brew "jpeg-xl"
+brew "aom"
 brew "git"
-# Improved top (interactive process viewer)
+brew "automake"
+brew "brew-cask-completion"
+brew "freetype"
+brew "fontconfig"
+brew "colima"
+brew "coreutils"
+brew "docker"
+brew "docker-buildx"
+brew "docker-compose"
+brew "openssl@3"
+brew "unbound"
+brew "gnutls"
+brew "leptonica"
+brew "libmicrohttpd"
+brew "librist"
+brew "tesseract"
+brew "ffmpeg"
+brew "fzf"
+brew "ghostscript"
+brew "gifsicle"
+brew "go"
 brew "htop"
-# Add GitHub support to git on the command-line
 brew "hub"
-# Configurable static site generator
 brew "hugo"
-# Tools and libraries to manipulate images in many formats
+brew "libheif"
+brew "python@3.12"
+brew "libraw"
 brew "imagemagick"
-# Image manipulation library
+brew "img2pdf"
 brew "jpeg"
-# Lightweight and flexible command-line JSON processor
 brew "jq"
-# Library to render SVG files using Cairo
-brew "librsvg"
-# Mac App Store command-line interface
-brew "mas"
-# Cross-shell prompt for astronauts
-brew "starship"
-# Code-search similar to ack
-brew "the_silver_searcher"
-# Display directories as trees (with optional color/HTML output)
-brew "tree"
-# Internet file retriever
-brew "wget"
-# YAML Parser
-brew "libyaml"
-# Postgres C API library
 brew "libpq"
-# Client for the Dropbox cloud storage service
+brew "librsvg"
+brew "libxml2"
+brew "libyaml"
+brew "mas"
+brew "memcached"
+brew "mise"
+brew "mupdf"
+brew "mysql"
+brew "mysql-client"
+brew "openapi-generator"
+brew "pkgconf"
+brew "redis"
+brew "starship"
+brew "the_silver_searcher"
+brew "tree"
+brew "wget"
+brew "yarn"
+brew "yq"
+brew "yt-dlp"
 cask "dropbox"
-# Web browser
 cask "firefox"
-# Screen color temperature controller
 cask "flux-app"
-# Web browser
 cask "google-chrome"
-# Tools to protect your emails and files
 cask "gpg-suite"
-# Tool to optimize images to a smaller size
 cask "imageoptim"
-# Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
-# Tool to prevent the system from going into sleep mode
 cask "keepingyouawake"
-# App to write, plan, collaborate, and get organised
+cask "keyboardcleantool"
 cask "notion"
-# Control your tools with a few keystrokes
 cask "raycast"
-# Move and resize windows using keyboard shortcuts or snap areas
 cask "rectangle"
-# Open-source code editor
+cask "spotify"
 cask "visual-studio-code"
+cask "xquartz"
 mas "1Password for Safari", id: 1569813296
 mas "AdGuard for Safari", id: 1440147259
-mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Slack", id: 803453959
 mas "Telegram Lite", id: 946399090
 mas "Todoist", id: 585829637
+mas "Xcode", id: 497799835
