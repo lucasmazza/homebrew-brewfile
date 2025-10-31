@@ -1,4 +1,3 @@
-tap "homebrew/bundle"
 # Library for manipulating PNG images
 brew "libpng"
 # TIFF library and utilities
@@ -56,7 +55,7 @@ cask "dropbox"
 # Web browser
 cask "firefox"
 # Screen color temperature controller
-cask "flux"
+cask "flux-app"
 # Web browser
 cask "google-chrome"
 # Tools to protect your emails and files
@@ -79,7 +78,6 @@ mas "1Password for Safari", id: 1569813296
 mas "AdGuard for Safari", id: 1440147259
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
-mas "Monosnap", id: 540348655
 mas "Slack", id: 803453959
 mas "Telegram Lite", id: 946399090
 mas "Todoist", id: 585829637
